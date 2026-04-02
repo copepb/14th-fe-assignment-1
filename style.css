@@ -87,7 +87,7 @@ div > #box3 {
 } 
 
 
-#loginBox > #title {
+#loginTitle {
     display: flex;
     justify-content: center;
     color: white;
